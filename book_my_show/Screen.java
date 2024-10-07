@@ -1,3 +1,4 @@
+package book_my_show;
 public class Screen {
      String screenId;
      String screenName;

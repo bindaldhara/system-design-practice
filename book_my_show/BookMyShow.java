@@ -1,3 +1,4 @@
+package book_my_show;
 public class BookMyShow {
     public static void main(String[] args) {
         Movie movie = new Movie(1, "Inception");

@@ -1,3 +1,4 @@
+package book_my_show;
 class Seat {
     String seatNumber;
     private boolean isBooked;

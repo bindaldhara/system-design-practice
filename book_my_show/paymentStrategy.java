@@ -1,3 +1,4 @@
+package book_my_show;
 interface PaymentStrategy {
     void pay(double amount);
 }

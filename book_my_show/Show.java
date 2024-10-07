@@ -1,3 +1,4 @@
+package book_my_show;
 public class Show {
     private String showId;
     private Movie movie;
